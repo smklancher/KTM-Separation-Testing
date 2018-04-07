@@ -1,0 +1,61 @@
+﻿iMain File No 111110631 Pane # 3l
+Building Sketch
+Bormwef / Client
+Property Address
+City County State FL Zip Code
+Lender / Client
+14ft
+13.15ft
+Screened Patio
+- !
+[128.33 Sq ft]
+14ft
+LJ
+W
+A
+00
+3!
+First Floor
+[1457.19 Sq ft]
+4^
+C
+7.33ftg r g 8.49ft ^ CO
+Screened Porch i
+[40.47 Sq ft] 12.33ft
+IG n
+A at
+!C. UJ
+o - sj > ui
+( N ( / ) 3
+jO at
+m
+2 3" 12ft
+( a
+a
+12.33ft
+OaVtnd ■ It mode, Me. Area Calculations Summary
+UvingArea Calculation Details
+Rretfloot 1457.2 Sq ft 12 X 16.3333 195.9996
+243333x 10 243333
+73333 x2 14.6666
+0.5 X 4.9497 x 4.9497 12349765045
+73333 X 4.9497 36.29763501
+0.5 X 3.5355 x 3.5355 6.249880125
+24.3333 X 3.5355 86.03038215
+40,1519 X 18.1311 727.99611409
+0.5 X 0.2357 X 03357 0.027777245
+37.3329 X 0.2357 8.79936453
+13.1534 x 8.1667 107.41967178
+0.5 X 2.2981 X 2.2961 2.640631805
+0.5 X 2.2981 X 2.2961 2.640631805
+5.5833 X 23961 12.83098173
+Total Living Area ( Rounded ) : 1457 Sq ft
+Non - living Area
+Screened Patio 1283 Sq ft 9.1667 X 14 1283338
+1 Car Attached 246.7 Sq ft 20 X 123333 246.666
+Screened Porch 403Sqft 8.4853 X 2 16.9706
+1.4142 X 3.5355 4.9999041
+0.5 X 3.5355 x 3.5355 = 6.249880125
+0.5 X 4.9497 x 4.9497 = 12349765045
+Form SKT LT BWSkl — *WinT0TAL’ appraisal software by a la mode, Inc — 1 800 ALAMODE
+

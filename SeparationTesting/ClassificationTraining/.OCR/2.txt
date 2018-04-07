@@ -1,0 +1,79 @@
+﻿Uniform Residential Appraisal Report File #
+There are comparable properties currently offered for sale in the subject neighborhood ranging in price from $ to $ .
+There are comparable sales in the subject neighborhood within the past twelve months ranging in sale price from $ to $ .
+FEATURE SUBJECT COMPARABLE SALE # 1 COMPARABLE SALE # 2 COMPARABLE SALE # 3
+Address
+Proximity to Subject
+Sale Price $ $ $ $
+Sale Price / Gross Liv. Area $ sq. ft. $ sq. ft. $ sq. ft. $ sq. ft.
+Data Source ( s )
+Verification Source ( s )
+VALUE ADJUSTMENTS DESCRIPTION DESCRIPTION + ( - ) $ Adjustment DESCRIPTION + ( - ) $ Adjustment DESCRIPTION + ( - ) $ Adjustment
+Sale or Financing
+Concessions
+Date of Sale / Time
+Location
+Leasehold / Fee Simple
+Site
+View
+Design ( Style )
+Quality of Construction
+Actual Age
+Condition
+Above Grade Total Bdrms. Baths Total Bdrms. Baths Total Bdrms. Baths Total Bdrms. Baths
+Room Count
+Gross Living Area sq. ft. sq. ft. sq. ft. sq. ft.
+S Basement & Finished
+A
+L Rooms Below Grade
+E Functional Utility
+S
+Heating / Cooling
+C Energy Efficient Items
+O
+M Garage / Carport
+P Porch / Patio / Deck
+A
+R
+I
+S
+O
+N Net Adjustment ( Total ) + - $ + - $ + - $
+A Adjusted Sale Price Net Adj. % Net Adj. % Net Adj. %
+P of Comparables Gross Adj. % $ Gross Adj. % $ Gross Adj. % $
+P I did did not research the sale or transfer history of the subject property and comparable sales. If not, explain
+R
+O
+A
+C
+H My research did did not reveal any prior sales or transfers of the subject property for the three years prior to the effective date of this appraisal.
+Data source ( s )
+My research did did not reveal any prior sales or transfers of the comparable sales for the year prior to the date of sale of the comparable sale.
+Data source ( s )
+Report the results of the research and analysis of the prior sale or transfer history of the subject property and comparable sales ( report additional prior sales on page 3 ) .
+ITEM SUBJECT COMPARABLE SALE # 1 COMPARABLE SALE # 2 COMPARABLE SALE # 3
+Date of Prior Sale / Transfer
+Price of Prior Sale / Transfer
+Data Source ( s )
+Effective Date of Data Source ( s )
+Analysis of prior sale or transfer history of the subject property and comparable sales
+Summary of Sales Comparison Approach
+Indicated Value by Sales Comparison Approach $
+Indicated Value by : Sales Comparison Approach $ Cost Approach ( if developed ) $ Income Approach ( if developed ) $
+R
+E
+C
+O
+N
+C This appraisal is made “as is”, subject to completion per plans and specifications on the basis of a hypothetical condition that the improvements have been
+I completed, subject to the following repairs or alterations on the basis of a hypothetical condition that the repairs or alterations have been completed, or subject to the
+L
+I following required inspection based on the extraordinary assumption that the condition or deficiency does not require alteration or repair :
+A
+T
+I Based on a complete visual inspection of the interior and exterior areas of the subject property, defined scope of work, statement of assumptions and limiting
+O
+N conditions, and appraiser’s certification, my ( our ) opinion of the market value, as defined, of the real property that is the subject of this report is
+$ , as of , which is the date of inspection and the effective date of this appraisal.
+Freddie Mac Form 70 March 2005 Page 2 of 6 Fannie Mae Form 1004 March 2005
+

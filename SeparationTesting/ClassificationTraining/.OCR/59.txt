@@ -1,0 +1,47 @@
+﻿Page # 8
+Comparable Photo Page
+Borrower
+Property Address Sample Land Appraisal
+City County State FL Zip Code
+Lender
+Comparable 1
+158th Ter
+Prox. to Subject 0.26 miles NW
+Sales Price 25,000
+Gross Living Area
+Total Rooms
+Total Bedrooms
+Total Bathrooms
+Location Rural
+View
+Site 5.00
+Quality
+Age
+Comparable 2
+169th Rd
+Prox. to Subject 10.09 miles NW
+Sales Price 25,000
+Gross Living Area
+Total Rooms
+Total Bedrooms
+Total Bathrooms
+Location Rural
+View
+Site 5.71
+Quality
+Age
+Comparable 3
+176th St
+Prox. to Subject 2.83 miles SE
+Sales Price 32,500
+Gross Living Area
+Total Rooms
+Total Bedrooms
+Total Bathrooms
+Location Rural
+View
+Site 5.00
+Quality
+Age
+Form PICPIX.CR — "WinTOTAL" appraisal software by a la mode, inc. — 1 - 800 - ALAMODE
+

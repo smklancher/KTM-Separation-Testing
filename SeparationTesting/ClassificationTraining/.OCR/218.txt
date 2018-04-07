@@ -1,0 +1,38 @@
+﻿Note : The following instructions highlight certain sections of the form.
+Introductory Statement
+We recognize that the introductory paragraph of Form 1003 differs slightly from the
+introductory paragraph in the Uniform Residential Loan Application found on Freddie
+Mac's website, Freddie Mac Form 65. However, because we have determined that
+these differences are not material, Fannie Mae will deem either version to comply
+with our requirements for use of the Uniform Residential Loan Application.
+V. Monthly Income and Combined Housing Expense Information
+Gross Monthly Income : If the net cash flow for an investment property is a positive
+number , it should be listed as "net rental income." If it is a negative number, it must
+be included in the applicant's monthly obligations. If the property is a two - to four -
+unit property for which the applicant occupies one of the units as a principal
+residence, the monthly rental income should be listed as "net rental income."
+Combined Monthly Housing Expense : The present monthly housing expenses for
+the borrower and the co - borrower should be listed on a combined basis. The
+proposed monthly housing expense for a two - to four - unit property in which the
+applicant will occupy a unit as a principal residence should reflect the monthly
+payment ( PITIA ) for the subject property. For all one - to four - unit investment
+properties the present monthly housing expense should reflect the applicant's
+principal residence.
+VI. Assets and Liabilities
+When the borrower's and co - borrower's assets and liabilities are not sufficiently
+joined to make a combined statement meaningful, a separate Statement of Assets
+and Liabilities ( Form 1003A ) should be completed for the co - borrower.
+VII. Details of Transaction
+The purchase price shown on Line "a" under the "Details of Transaction" should not
+include any discounts or rebates or other allowances paid or allowed to the
+purchaser. For refinancing, the amount being refinanced should be shown on Line
+"d" - - Refinance. The figure should include the total amount of all existing liens plus
+the costs of improvements that have been - - or will be - - made. Lines "a", "b", and "c"
+should not be used to describe a refinance transaction.
+VIII. Declarations
+Noncitizen Applicants : If an applicant indicates in his response to Question J that he is
+not a U.S. citizen, and also indicates in his response to Question K that he is not a
+permanent resident alien, the lender may wish to ask whether he is a nonpermanent
+resident alien or otherwise is lawfully present in the United States.
+Fannie Mae Form 1003 Instructions ( Form Rev. 6 / 09, Instructions 12 / 13 ) Page 2 of 4
+

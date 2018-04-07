@@ -1,0 +1,25 @@
+﻿4. Borrower Information ( Borrower is an individual )
+Borrower Name ( first, mi, last ) Borrower Social Security No. ( Required )
+Borrower Address
+City State Postal Code
+Borrower Phone Type : Cell Home Business Borrower’s Email Address
+5. Borrower Information ( Borrower is a corporation, LP, LLC, or other entity )
+Name of Borrowing Entity
+Contact Name ( first, mi, last ) Title at Company
+Borrowing Entity’s Tax ID. No. ( Required ) State in Which Company is Registered
+City State Postal Code
+Primary Phone Type : Cell Home Business Borrowing Entity’s Email Address
+6. Investment Funding Instructions
+Payee Name
+Street Address
+City State Postal Code
+Primary Phone Type : Cell Home Business
+Select an option : Check Wire
+Please write or type wire instructions below. Submitting incomplete information or attaching instructions separately will delay
+funding, as additional verification will be needed.
+Bank Name ABA No. / Bank Routing No.
+Bank Account Name Bank Account No.
+Reference No.
+Continued on next page.
+© 2017 PENSCO TRUST COMPANY, a subsidiary of Opus Bank IRA - 5055 Deed of Trust / Mortgage / Secured Note Investment Authorization 07 - 17 4
+

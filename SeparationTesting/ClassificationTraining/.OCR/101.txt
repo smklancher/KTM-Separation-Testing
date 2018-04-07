@@ -1,0 +1,36 @@
+﻿35
+THE SALES COMPARISON APPROACH
+In the sales comparison approach, value is estimated by comparing the property being appraised
+with similar properties, which have sold. This method of estimating value is applicable when there
+are a sufficient number of real sales of similar properties. The methodology is based on the premises
+that market value is directly related to the availability of substitute properties with a similar utility
+and desirability. If there are not enough sales of comparable properties, the sales comparison
+approach may be less useful.
+In applying the sales comparison approach, the appraisers researched the market for sales, contracts,
+offers, and listings of competitive properties. These sales are examined and verified with
+knowledgeable parties with regard to price; property rights conveyed financing terms and
+conditions, transaction dates, physical condition, and buyer and seller motivation. The sale data is
+then compared to the subject and a value estimate is concluded.
+Units of comparison are the components into which the property is divided for comparison
+purposes. These may include price per square foot, price per front foot, price per room, etceteras.
+Elements of comparison are individual characteristics of sales which cause price to vary. These
+elements include property rights conveyed, financing terms, condition of sale, market conditions,
+location, physical characteristics, economic characteristics, use and non - realty items.
+The adjustment process for the elements of comparison follows a specific order beginning with
+property rights conveyed followed by financing items, and so on.
+The analysis and adjustment process involves both quantitative and qualitative techniques.
+Quantitative techniques include paired sales analysis, statistical analysis, trend analysis, and other
+techniques.
+Qualitative techniques include Relative Comparison Analysis, ranking analysis, and personal
+interviews. Relative comparison analysis involves studying the relationship of sale data without
+making quantitative adjustments. For example, a sale property may be considered superior, inferior,
+or equal to the property being appraised. Ranking analysis puts the sale data in order of
+comparability to the subject property. Personal interviews can be very insightful in making
+qualitative adjustments.
+The sales comparison approach derives income multipliers and income rates, which are used as
+units of comparison. The appraiser does not adjust these units but rather explains the difference in
+reconciling value conclusions.
+The last step in the sales comparison approach is to reconcile the sale data into a value estimate. It
+may also be necessary to reconcile different conclusions reached using varying techniques within
+the sales comparison approach.
+

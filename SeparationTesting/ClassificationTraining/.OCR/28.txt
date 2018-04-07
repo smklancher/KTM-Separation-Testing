@@ -1,0 +1,66 @@
+﻿Page # 2
+One - Unit Residential Appraisal Field Review Report File #
+SECTION II — COMPLETE ONLY IF REVIEW APPRAISER ANSWERS "NO" TO QUESTION 10 IN SECTION I.
+1. Provide detailed reasoning for disagreement with the opinion of value in the appraisal report under review. OA's Sales 2 & 3 are non mls sales. Sales 4 - 6 are developer sales
+and are therefore not the best indicators of value due to the developer being involved as of the effective f date of the appraisal. OA's Comparable 5's sales price was
+incorrect at $335,900 and sold for $300,000.
+2. State all extraordinary assumptions used ( i.e. gross living area, room count, condition, etc. ) . All information regarding the subject property and market area that could not
+be reverified are assumed to be correct as of the effective f date of the original appraisal 11 / 1 / 2007.
+3. Provide a new opinion of value as of the effective date of the appraisal report under review using the below sales comparison analysis grid.
+( NOTE : This may or may not include the use of the same comparable sales in the appraisal report under review. )
+FEATURE SUBJECT COMPARABLE SALE # 1 COMPARABLE SALE # 2 COMPARABLE SALE # 3
+Address
+Proximity to Subject 0.09 miles NE 0.52 miles NW 0.66 miles SW
+Sale Price $ $ 358,500 $ 301,900 $ 303,800
+Sale Price / Gross Liv. Area $ sq.ft. $ 332.56 sq.ft. $ 330.31 sq.ft. $ 242.07 sq.ft.
+Data Source ( s ) FARES / MLS FARES / MLS FARES / MLS
+Verification Source ( s ) Ext.Inspection Ext.Inspection Ext.Inspection
+VALUE ADJUSTMENTS DESCRIPTION DESCRIPTION + ( - ) $ Adjustment DESCRIPTION + ( - ) $ Adjustment DESCRIPTION + ( - ) $ Adjustment
+Sales or Financing Conv Mtg 0 Conv Mtg 0 Conv Mtg 0
+Concessions None Noted None Noted None Noted
+Date of Sale / Time 6 / 4 / 07 9 / 10 / 07 10 / 10 / 07
+Location 28th Floor 15th Floor +6,000 15th Floor +6,000 29th Floor 0
+Leasehold / Fee Simple Fee Simple Fee Simple Fee Simple Fee Simple
+Site HOA - 444.70 HOA - 590.00 0 HOA - 422.00 0 HOA - 508.00 0
+View City / Bay City / Bay City / Bay City / River
+Design ( Style ) Hi Rise Condo Hi Rise Condo Hi Rise Condo Hi Rise Condo
+Quality of Construction Good Good Good Good
+Actual Age 2007 2005 0 1989 0 2006 0
+Condition Good Good Good Good
+Above Grade Total Bdrms Baths Total Bdrms Baths Total Bdrms Baths Total Bdrms Baths
+Room Count 4 2 2 4 2 2 4 2 2 4 2 2
+Gross Living Area 1,116 sq.ft. 1,078 sq.ft. 0 914 sq.ft. +5,000 1,255 sq.ft. - 3,000
+Basement & Finished n / a n / a n / a n / a
+Rooms Below Grade n / a n / a n / a n / a
+Functional Utility Average Average Average Average
+Heating / Cooling Central Central Central Central
+Energy Efficient Items Standard Standard Standard Standard
+Garage / Carport 1 space 1 space 1 space 1 space
+Porch / Patio / Deck Balcony Balcony Balcony Balcony
+Net Adjustment ( Total ) + - $ 6,000 + - $ 11,000 + - $ - 3,000
+Adjusted Sale Price Net Adj. 1.7 % Net Adj. 3.6 % Net Adj. 1.0 %
+of Comparables Gross Adj. 1.7 % $ 364,500 Gross Adj. 3.6 % $ 312,900 Gross Adj. 1.0 % $ 300,800
+I did did not research the sale or transfer history of the above comparable sales. If not, explain
+My research did did not reveal any prior sales or transfers of the comparable sales for the year prior to the date of sale of the comparable sale.
+Data source ( s ) FARES
+Report the results of the research and analysis of the prior sale or transfer history of the above comparable sales ( report additional prior sales on an
+addendum ) .
+ITEM COMPARABLE SALE # 1 COMPARABLE SALE # 2 COMPARABLE SALE # 3
+Date of Prior Sale / Transfer No prior sales recorded No prior sales recorded No prior sales recorded
+Price of Prior Sale / Transfer Within 1 year of sale Within 1 year of sale Within 1 year of sale
+Data Source ( s ) FARES FARES FARES
+Effective Date of Data Source ( s )
+Analysis of prior sale or transfer history for the comparable sales. All prior sales / transfers if any for the 12 months prior to the sale date of the comparable are listed above.
+Summary of Value Conclusion ( including detailed support for the opinion of value and reasons why the new comparable sales are better t than the sales used
+in the appraisal report under review ) . All new sales were outside the subject project and sold thru the mls. These three sales are deemed the most reliable indicators
+of the subject's estimated value at the time of the effective f date. Sales 1 & 3 are located in newer buildings like the subject with Sale 2 being located in an older building.
+Sale 1 seems to have sold above market value at the time for an unknown reason. Sales 2 & 3's sales prices are more in line with other recent comparables sales
+through MLS. The condition for closed Sales 1 - 3 were confirmed through the descriptions and / or interior photos provided by MLS.
+REVIEW APPRAISER’S OPINION OF MARKET VALUE ( Required only if review appraiser answered “No” to Question 10 in Section 1 )
+Based on a visual inspection of the exterior areas of the subject property from at least the street or complete visual inspection of the
+interior and exterior areas of the subject property, defined scope of work, statement of assumptions and limiting conditions, and appraiser’s
+certification, my opinion of the market value, as defined, of the real property that is the subject of this report is $ 325,000 ,as of
+, which is the effective date of the appraisal report under review.
+Freddie Mac Form 1032 March 2005 Page 2 of 4 Fannie Mae Form 2000 March 2005
+Form 2000 — "WinTOTAL" appraisal software by a la mode, inc. — 1 - 800 - ALAMODE
+

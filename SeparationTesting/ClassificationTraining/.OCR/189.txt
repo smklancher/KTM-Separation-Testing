@@ -1,0 +1,83 @@
+﻿L. Settlement Charges
+700. Total Real Estate Broker Fees $ 28,500.00 Paid From Paid From
+Division of commission ( line 700 ) as follows : Borrower’s Seller’s
+701. $ 14,250.00 to XYZ Broker Funds at Funds at
+702. $ 14,250.00 to ABC Broker Settlement Settlement
+703. Commission paid at settlement $ 0.00 $ 28,500.00
+704.
+800. Items Payable in Connection with Loan
+801. Our origination charge ( Includes Origination Point $ 995.00 ) $ 1,070.00 ( from GFE # 1 )
+802. Your credit or charge ( points ) for the specific interest rate chosen ( from GFE # 2 )
+803. Your adjusted origination charges ( from GFE A ) $ 1,070.00
+804. Appraisal fee to Appraisal Servive P.O.C ( POC ) ( from GFE # 3 ) $ 525.00
+805. Credit report to Lender P.O.C ( POC ) ( from GFE # 3 ) $ 25.00
+806. Tax service to Tax Service P.O.C ( POC ) ( from GFE # 3 ) $ 80.00
+807. Flood certification Flood Cert P.O.C ( POC ) ( from GFE # 3 ) $ 20.00
+808. ( from GFE # 3 )
+809. ( from GFE # 3 )
+810. ( from GFE # 3 )
+900. Items Required by Lender to Be Paid in Advance
+901. Daily interest charges from 03 / 15 / 2014 to 03 / 31 / 2014 @ $ 44.8611 / day ( from GFE # 10 ) $ 717.78
+902. Mortgage insurance premium for 12 months to $ 0.00 ( from GFE # 3 )
+903. Homeowner’s insurance for 1.00 years to Insurance $ 475.00 P.O.C ( POC ) ( from GFE # 11 ) $ 475.00
+904. Flood Insurance for months to
+905. for months to
+906. for months to
+1000. Reserves Deposited with Lender
+1001. Initial deposit for your escrow account ( from GFE # 9 )
+1002. Homeowner’s insurance months @ $ per month
+1003. Mortgage insurance months @ $ per month
+1004. Property taxes months @ $ per month
+1005. School taxes months @ $ per month
+1006. Flood insurance months @ $ per month
+1100. Title Charges
+1101. Title services and lender’s title insurance ( from GFE # 4 ) $ 2,150.00
+1102. Settlement or closing fee $ 1,350.00
+1103. Owner’s title insurance ( from GFE # 5 )
+1104. Lender’s title insurance $ 650.00
+1105. Lender’s title policy limit $
+1106. Owner’s title policy limit $
+1107. Agent’s portion of the total title insurance premium
+1108. Underwriter’s portion of the total title insurance premium
+1109. Document Preparation Fee
+1110. Notary Fee $ 150.00 P.O.C ( POC )
+1111. Attorney Fees
+1112.
+1113.
+1114.
+1115.
+1116.
+1117.
+1118.
+1119.
+1200. Government Recording and Transfer Charges
+1201. Government recording charges ( from GFE # 7 ) $ 150.00
+1202. Deed $ 150.00 Mortgage $ Release $
+1203. Transfer taxes ( from GFE # 8 )
+1204. City / County tax / stamps Deed $ Mortgage $
+1205. State tax / stamps Deed $ Mortgage $
+1206. Deed $ Mortgage $
+1207. Deed $ Mortgage $
+1208. Deed $ Mortgage $
+1300. Additional Settlement Charges
+1301. Required services that you can shop for ( from GFE # 6 ) $ 500.00
+1302. Pest inspection fee $ 50.00 $ 50.00 P.O.C ( POC ) $ 50.00
+1303. Home Inspection $ 450.00 $ 450.00 P.O.C ( POC ) $ 450.00
+1304.
+1305.
+1306.
+1307.
+1308.
+1309.
+1310.
+1311.
+1312.
+1313.
+1314.
+1315.
+1316.
+1400. Total Settlement Charges ( enter on lines 103, Section J and 502, Section K ) $ 5,562.78 $ 28,500.00
+P.O.C. - Paid Outside of Closing, B - Borrower, S - Seller, Br - Broker, L - Lender, C - Correspondent, O - Other
+Previous editions are obsolete Page 2 of 3 HUD - 1
+Calyx Form - HUD1_2.FRM ( 09 / 10 )
+

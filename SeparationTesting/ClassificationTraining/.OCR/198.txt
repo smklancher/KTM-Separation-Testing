@@ -1,0 +1,46 @@
+﻿Uniform Residential Loan Application
+This application is designed to be completed by the applicant ( s ) with the Lender's assistance. Applicants should complete this form as "Borrower" or "Co - Borrower", as
+applicable. Co - Borrower information must also be provided ( and the appropriate box checked ) when the income or assets of a person other than the "Borrower"
+( including the Borrower's spouse ) will be used as a basis for loan qualification or the income or assets of the Borrower's spouse or other person who has community
+property rights pursuant to state law will not be used as a basis for loan qualification, but his or her liabilities must be considered because the spouse or other person
+has community property rights pursuant to applicable law and Borrower resides in a community property state, the security property is located in a community property
+state, or the Borrower is relying on other property located in a community property state as a basis for repayment of the loan.
+SAMPLE If this is an application for joint credit, Borrower and Co - Borrower each agree that we intend to apply for joint credit ( sign below ) :
+Borrower Co - Borrower
+I. TYPE OF MORTGAGE AND TERMS OF LOAN
+Mortgage VA Conventional Other ( explain ) : Agency Case Number Lender Case Number
+Applied for : FHA USDA / Rural
+Housing Service
+Amount Interest Rate No. of Months Amortization Type : Fixed Rate Other ( explain ) :
+$ % GPM ARM ( type ) :
+II. PROPERTY INFORMATION AND PURPOSE OF LOAN
+Subject Property Address ( street, city, state, & ZIP ) No. of Units
+Legal Description of Subject Property ( attach description if necessary ) Year Built
+Purpose of Loan Purchase Construction Other ( explain ) : Property will be :
+Refinance Construction - Permanent Primary Residence Secondary Residence Investment
+Complete this line if construction or construction - permanent loan.
+Year Lot Original Cost Amount Existing Liens ( a ) Present Value of Lot ( b ) Cost of Improvements Total ( a+b )
+Acquired
+$ $ $ $ $
+Complete this line if this is a refinance loan.
+Year Original Cost Amount Existing Liens Purpose of Refinance Describe Improvements made to be made
+Acquired
+$ $ Cost : $
+Title will be held in what Name ( s ) Manner in which Title will be held Estate will be held in :
+Fee Simple
+Leasehold ( show
+Source of Down Payment, Settlement Charges and / or Subordinate Financing ( explain ) expiration date )
+Borrower III. BORROWER INFORMATION Co - Borrower
+Borrower's Name ( include Jr. or Sr. if applicable ) Co - Borrower's Name ( include Jr. or Sr. if applicable )
+Social Security Number Home Phone ( incl. area code ) DOB ( mm / dd / yyyy ) Yrs. School Social Security Number Home Phone ( incl. area code ) DOB ( mm / dd / yyyy ) Yrs. School
+Married Unmarried ( include single, Dependents ( not listed by Co - Borrower ) Married Unmarried ( include single, Dependents ( not listed by Borrower )
+Separated divorced, widowed ) no. ages Separated divorced, widowed ) no. ages
+Present Address ( street, city, state, ZIP ) Own Rent No. Yrs. Present Address ( street, city, state, ZIP ) Own Rent No. Yrs.
+Mailing Address, if different from Present Address Mailing Address, if different from Present Address
+If residing at present address for less than two years, complete the following :
+Former Address ( street, city, state, ZIP ) Own Rent No. Yrs. Former Address ( street, city, state, ZIP ) Own Rent No. Yrs.
+Former Address ( street, city, state, ZIP ) Own Rent No. Yrs. Former Address ( street, city, state, ZIP ) Own Rent No. Yrs.
+CALYX Form Loanapp1.frm 09 / 05 Page 1 of 5 Borrower Freddie Mac Form 65 07 / 05
+Fannie Mae Form 1003 07 / 05
+Co - Borrower
+

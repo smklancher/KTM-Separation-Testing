@@ -1,0 +1,44 @@
+﻿Page # 7
+Orig Comparable Photos 1 - 3
+Borrower
+Property Address
+City County State FL Zip Code
+Lender
+Orig & New Comp 1
+Prox. to Subject 0.09 miles NE
+Sales Price 358,500
+Gross Living Area 1,078
+Total Rooms 4
+Total Bedrooms 2
+Total Bathrooms 2
+Location 15th Floor
+View City / Bay
+Site HOA - 590.00
+Quality Good
+Age 2005
+New Comparable 2
+Prox. to Subject 0.52 miles NW
+Sales Price 301,900
+Gross Living Area 914
+Total Rooms 4
+Total Bedrooms 2
+Total Bathrooms 2
+Location 15th Floor
+View City / Bay
+Site HOA - 422.00
+Quality Good
+Age 1989
+New Comparable 3
+Prox. to Subject 0.66 miles SW
+Sales Price 303,800
+Gross Living Area 1,255
+Total Rooms 4
+Total Bedrooms 2
+Total Bathrooms 2
+Location 29th Floor
+View City / River
+Site HOA - 508.00
+Quality Good
+Age 2006
+Form PICPIX.CR — "WinTOTAL" appraisal software by a la mode, inc. — 1 - 800 - ALAMODE
+

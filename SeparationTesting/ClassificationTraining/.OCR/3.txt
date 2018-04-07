@@ -1,0 +1,66 @@
+﻿Uniform Residential Appraisal Report File #
+A
+D
+D
+I
+T
+I
+O
+N
+A
+L
+C
+O
+M
+M
+E
+N
+T
+S
+COST APPROACH TO VALUE ( not required by Fannie Mae )
+Provide adequate information for the lender / client to replicate the below cost figures and calculations.
+Support for the opinion of site value ( summary of comparable land sales or other methods for estimating site value )
+C
+O
+S ESTIMATED REPRODUCTION OR REPLACEMENT COST NEW OPINION OF SITE VALUE ................................................................. $
+=
+T
+Source of cost data Dwelling Sq. Ft. @ $ ..................... =$
+A Quality rating from cost service Effective date of cost data Sq. Ft. @ $ ..................... =$
+P
+P Comments on Cost Approach ( gross living area calculations, depreciation, etc. )
+R Garage / Carport Sq. Ft. @ $ ..................... =$
+O
+A Total Estimate of Cost - New .................... $
+=
+C Less Physical Functional External
+H
+Depreciation =$ ( )
+Depreciated Cost of Improvements...................................................... =$
+“As - is” Value of Site Improvements...................................................... =$
+Estimated Remaining Economic Life ( HUD and VA only ) Years Indicated Value By Cost Approach ...................................................... =$
+I INCOME APPROACH TO VALUE ( not required by Fannie Mae )
+N
+C Estimated Monthly Market Rent $ X Gross Rent Multiplier = $ Indicated Value by Income Approach
+O Summary of Income Approach ( including support for market rent and GRM )
+M
+E
+PROJECT INFORMATION FOR PUDs ( if applicable )
+Is the developer / builder in control of the Homeowners’ Association ( HOA ) ? Yes No Unit type ( s ) Detached Attached
+P Provide the following information for PUDs ONLY if the developer / builder is in control of the HOA and the subject property is an attached dwelling unit.
+U Legal name of project
+D Total number of phases Total number of units Total number of units sold
+I Total number of units rented Total number of units for sale Data source ( s )
+N Was the project created by the conversion of an existing building ( s ) into a PUD? Yes No If Yes, date of conversion
+F
+O Does the project contain any multi - dwelling units? Yes No Data source ( s )
+R
+M Are the units, common elements, and recreation facilities complete? Yes No If No, describe the status of completion.
+A
+T
+I
+O Are the common elements leased to or by the Homeowners’ Association? Yes No If Yes, describe the rental terms and options.
+N
+Describe common elements and recreational facilities
+Freddie Mac Form 70 March 2005 Page 3 of 6 Fannie Mae Form 1004 March 2005
+

@@ -1,0 +1,65 @@
+﻿OMB Approval No. 2502 - 0265
+A. Settlement Statement ( HUD - 1 )
+B. Type of Loan
+1. FHA 2. RHS 3. Conv. Unins. 6. File Number : 7. Loan Number : 8. Mortgage Insurance Case Number :
+4. VA 5. Conv. Ins. samplesmith
+C. Note : This form is furnished to give you a statement of actual settlement costs. Amounts paid to and by the settlement agent are shown. Items marked
+“ ( p.o.c. ) “ were paid outside the closing; they are shown here for informational purposes and are not included in the totals.
+D. Name & Address of Borrower : E. Name & Address of Seller : F. Name & Address of Lender :
+John Q. Smith
+Mary A. Smith
+1234 Market St.
+San Diego, CA 9210x
+G. Property Location : H. Settlement Agent : I. Settlement Date :
+1254 Main Street
+San Diego, CA 92110 03 / 15 / 2014
+County : San Diego Place of Settlement :
+J. Summary of Borrower's Transaction K. Summary of Seller's Transaction
+100. Gross Amount Due from Borrower 400. Gross Amount Due to Seller
+101. Contract sales price $ 475,000 401. Contract sales price $ 475,000
+102. Personal property 402. Personal property
+103. Settlement charges to borrower ( line 1400 ) $ 5,562.78 403.
+104. 404.
+105. 405.
+Adjustment for items paid by seller in advance Adjustment for items paid by seller in advance
+106. City / town taxes to 406. City / town taxes to
+107. County taxes 01 / 01 / 2014 to 03 / 15 / 2014 $ - 1,000.00 407. County taxes 01 / 01 / 2014 to 03 / 15 / 2014 $ - 1,000.00
+108. Assessments to 408. Assessments to
+109. 409.
+110. 410.
+111. 411.
+112. 412.
+120. Gross Amount Due from Borrower $ 479,562.78 420. Gross Amount Due to Seller $ 474,000.00
+200. Amounts Paid by or in Behalf of Borrower 500. Reductions In Amount Due to Seller
+201. Deposit or earnest money $ 5,000.00 501. Excess deposit ( see instructions )
+202. Principal amount of new loan ( s ) $ 380,000.00 502. Settlement charges to seller ( line 1400 ) $ 28,500.00
+203. Existing loan ( s ) taken subject to 503. Existing loan ( s ) taken subject to
+204. 504. Payoff of first mortgage loan
+205. 505. Payoff of second mortgage loan
+206. 506.
+207. 507.
+208. 508.
+209. 509.
+Adjustments for items unpaid by seller Adjustments for items unpaid by seller
+210. City / town taxes to 510. City / town taxes to
+211. County taxes 03 / 15 / 2014 to 06 / 30 / 2014 $ 1,593.00 511. County taxes to
+212. Assessments to 512. Assessments to
+213. 513.
+214. 514.
+215. 515.
+216. 516.
+217. 517.
+218. 518.
+219. 519.
+220. Total Paid by / for Borrower $ 386,593.00 520. Total Reduction Amount Due Seller $ 28,500.00
+300. Cash at Settlement from / to Borrower 600. Cash at Settlement to / from Seller
+301. Gross amount due from borrower ( line 120 ) $ 479,562.78 601. Gross amount due to seller ( line 420 ) $ 474,000.00
+302. Less amounts paid by / for borrower ( line 220 ) ( 386,593.00 ) 602. Less reductions in amount due seller ( line 520 ) ( 28,500.00 )
+303. Cash From To Borrower $ 92,969.78 603. Cash To From Seller $ 445,500.00
+The Public Reporting Burden for this collection of information is estimated at 35 minutes per response for collecting, reviewing, and reporting the data. This
+agency may not collect this information, and you are not required to complete this form, unless it displays a currently valid OMB control number. No
+confidentiality is assured; this disclosure is mandatory. This is designed to provide the parties to a RESPA covered transaction with information during the
+settlement process.
+Previous editions are obsolete Page 1 of 3 HUD - 1
+Calyx Form - HUD1_1.FRM ( 09 / 10 )
+

@@ -1,0 +1,32 @@
+﻿42
+INCOME APPROACH
+The Income Approach is a technique for estimating the market value of the subject property, which
+requires the capitalization of net income to value. Value, from a broad appraisal viewpoint, is most
+practically defined as the present worth of future benefits. This definition is derived from the basic
+economic principle of anticipation, which asserts that value lies in futures. In addition, value may be
+described as the relationship between the thing described and a potential purchaser. This latter
+definition is clearly related to the former; that is, the quality of the relationship must be strongly
+influence by the purchaser’s estimate of future benefits.
+When estimating value by the Income Approach, the appraiser must :
+1. Forecasts the property’s gross earnings potential
+2. Estimate net income by deducting an appropriate vacancy allowance and operating
+expenses. This figure represents the net monetary benefits of ownership.
+The final step, appropriately discounting anticipated future earnings to judge their present worth, is
+termed capitalization. The most important consideration in the capitalization process is selecting the
+proper capitalization method for property under appraisal. The method of deriving a capitalization
+rate should be that method most often used in the market place for similar properties.
+There are several methods or techniques for estimating the value of the subject property by the
+Income Approach. The methods are the following :
+− Direct Capitalization : in the direct capitalization an overall rate derived from the market
+sales is applied to a net income estimate to derive an indication of Market Value.
+− Straight Capitalization : in the straight capitalization the capital structure of property value
+consist of land plus improvements. Thus, the overall rate is a weighted average of the risk
+rate, which is applicable to land, and the building capitalization rate, which is applicable to
+the improvements.
+− Mortgage Equity Analysis : in the mortgage equity analysis, the Band of Investment
+technique is the weighted average of the mortgage constant ( applied to the loan to value
+percent –i.e., 70% to 75% ) and the equity dividend rate ( applied to the amount of equity –
+i.e., 25% to 30% ) . This is the most often used commercial income valuation method.
+The subject property is not leased at present and the rental is calculated and based on similar rented
+properties in the area or for rent at the time of the appraisal report.
+

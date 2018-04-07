@@ -1,0 +1,23 @@
+﻿44
+DIRECT CAPITALIZATION METHOD
+Is a used to convert an estimate of a single year’s income into an indication of value. It involves either
+dividing the income estimate by an appropriate capitalization rate, usually called an income rate, or
+multiplying the income estimate by an appropriate factor , usually called an income multiplier. The
+income estimate is usually the expected income for the first year of the investment holding period.
+The rate is based on an analysis of comparables sales.
+Value of a Fee simple interest, is when estimating the value of the fee simple interest by the income
+approach , the annual operating income is forecast assuming market levels.
+Value of lease fee interest, is the value of a property based on the cash flow used are those forecast
+after considering the impact of all existing leases.
+According to gathered information in the market area the overall rate was found in a typical range
+within 7% to 10%. The appraiser consider appropriate for the present appraisal rate @ 8%
+An estimate of value may be derived by applying the estimated Net Operating Income and the
+Overall Rate utilizing the formula V=NOI / R, whereby V= Market Value, NOI= Net Operating
+Income, and R= Overall Rate.
+Thus : NOI = $110,850 = $1,304,118
+R 0.08
+Therefore, the market value of the subject property via the Income Comparison Approach fee simple
+title as of July 28, 20 :
+ONE MILLION THREE HUNDRED THOUSAND dollars
+$1,300,000
+

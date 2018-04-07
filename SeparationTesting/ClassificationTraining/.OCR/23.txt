@@ -1,0 +1,44 @@
+﻿Page # 6
+Comparable Photos 1 - 3
+Owner
+Property Address
+City County State FL Zip Code
+Client
+Comparable 1
+Prox. to Subj. 0.10 miles NE
+Sales Price 410,000
+G.L.A. 2,571
+Tot. Rooms 7
+Tot. Bedrms. 4
+Tot. Bathrms. 2
+Location Corner Lot
+View Residential
+Site 9,000 Sq.Ft.
+Quality Average
+Age 33 Years
+Comparable 2
+Prox. to Subj. 0.75 miles SE
+Sales Price 390,000
+G.L.A. 2,024
+Tot. Rooms 7
+Tot. Bedrms. 4
+Tot. Bathrms. 3
+Location Interior Lot
+View Canal
+Site 9,579 Sq.Ft.
+Quality Average
+Age 52 Years
+Comparable 3
+Prox. to Subj. 0.30 miles E
+Sales Price 345,000
+G.L.A. 2,205
+Tot. Rooms 7
+Tot. Bedrms. 3
+Tot. Bathrms. 2
+Location Interior Lot
+View Residential
+Site 9,600 Sq.Ft.
+Quality Average
+Age 34 Years
+Form PIC4x6.CR — "WinTOTAL" appraisal software by a la mode, inc. — 1 - 800 - ALAMODE
+

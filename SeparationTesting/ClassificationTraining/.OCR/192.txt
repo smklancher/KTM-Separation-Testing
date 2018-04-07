@@ -1,0 +1,55 @@
+﻿L. Settlement Charges
+700. Total Real Estate Broker Fees Paid From Paid From
+Division of commission ( line 700 ) as follows : Borrower's Seller's
+701. $ to Funds at Funds at
+702. $ to Settlement Settlement
+703. Commission paid at settlement
+800. Items Payable in Connection with Loan
+801. Our origination charge $ ( from GFE # 1 )
+802. Your credit or charge ( points ) for the specific interest rate chosen $ ( from GFE # 2 ) ***
+803. Your adjusted origination charges to ( from GFE A )
+804. Appraisal fee to ( from GFE # 3 )
+805. Credit report to ( from GFE # 3 )
+806. Tax service to
+807. Flood certification to
+808. to
+900. Items Required by Lender to be Paid in Advance
+901. Daily interest charges from from 10 / 17 / 2008 to 11 / 01 / 2008 @ $0.00 / day ( from GFE # 10 )
+902. Mortgage Ins. Premium for months to ( from GFE # 3 )
+903. Homeowner's insurance for for months to ( from GFE # 11 )
+904. months to ( from GFE # 11 )
+1000. Reserves Deposited with Lender
+1001. Initial deposit for your escrow account ( from GFE # 9 )
+1002. Homeowner's insurance months @ $ 0.00 / month $0.00
+1003. Mortgage Insurance months @ $ 0.00 / month $0.00
+1004. City Property Taxes months @ $ 0.00 / month $0.00
+1005. County Property Taxes months @ $ 0.00 / month $0.00
+1006. Assessments months @ $ 0.00 / month $0.00
+1007. Aggregate Adjustment $0.00
+1100. Title Charges
+1101. Title services and lender's title insurance ( from GFE # 4 )
+1102. Settlement or closing fee to $
+1103. Owner's title insurance ( from GFE # 5 )
+1104. Lender's title insurance $
+1105. Lender's title policy limit $0.00
+1106. Owner's title policy limit $0.00
+1107. Agent's portion of the total title insurance premium $
+1108. Underwriter's portion of the total title insurance premium $
+1109.
+1200. Government Recording and Transfer Charges
+1201. Government recording charges ( from GFE # 7 )
+1202. Deed $0.00 Mortgage $0.00 Release $0.00
+1203. Transfer taxes ( from GFE # 8 )
+1204. City / County tax / stamps Deed $0.00 Mortgage $0.00
+1205. State Tax / stamps Deed $0.00 Mortgage $0.00
+1206. Deed $0.00 Mortgage $0.00
+1207. Deed $0.00 Mortgage $0.00
+1300. Additional Settlement Charges
+1301. Required services that you can shop for ( from GFE # 6 )
+1302. to
+1303. to
+1304. to
+1305. to
+1400. Total Settlement Charges ( enter on lines 103, Section J and 502, Section K ) 0.00 0.00
+Previous editions are obsolete Page 2 of 4 HUD - 1
+

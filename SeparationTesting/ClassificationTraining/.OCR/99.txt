@@ -1,0 +1,35 @@
+﻿33
+COST APPROACH
+Property Owner Four Corners Baptist Church
+Address :
+Surveyed by : Jorge Mach are
+Effective Date : July 28,
+Occupancy : Owner
+Condition of Improvements : Average
+Building area 10,500 Sq. Ft. Number of buildings : 2
+Class : Average CBS Effective Age : 5 years
+Cost Rank : Average Average
+Cost as of : July 20
+Reproduction or Replacement Cost
+Direct Cost $95.25 10,500 $1,000,125
+Indirect Cost $0.00
+Site $200,000
+TOTAL COST NEW $1,200,125
+Depreciation
+Curable Physical Depreciation 8.2% $83,010
+Incurable Physical Depreciation
+Short
+Lived 0
+Long
+Lived 0
+TOTAL PHYSICAL
+Functional Obsolescence $0.00
+External Obsolescence $0.00
+TOTAL DEPRECIATION $83,010
+TOTAL DEPRECIATED VALUE OF BUILDING $917,115
+SITE VALUE $200,000
+VALUE INDICATION BY THE COST APPROACH $1,117,115
+ROUNDED $1,100,000
+ONE MILLION ONE HUNDRED THOUSAND dollars
+$1,100,000
+

@@ -1,0 +1,45 @@
+﻿Page # 9
+Comparable Photo Page
+Borrower
+Property Address
+City County State FL Zip Code
+Lender
+Orig Comparable 5
+133 NE 2nd Avenue # 1206
+Prox. to Subject Same Building
+Sales Price
+Gross Living Area
+Total Rooms
+Total Bedrooms
+Total Bathrooms
+Location
+View
+Site
+Quality
+Age
+Orig Comparable 6
+133 NE 2nd Avenue # 1119
+Prox. to Subject Same Building
+Sales Price
+Gross Living Area
+Total Rooms
+Total Bedrooms
+Total Bathrooms
+Location
+View
+Site
+Quality
+Age
+Prox. to Subject
+Sales Price
+Gross Living Area
+Total Rooms
+Total Bedrooms
+Total Bathrooms
+Location
+View
+Site
+Quality
+Age
+Form PICPIX.CR — "WinTOTAL" appraisal software by a la mode, inc. — 1 - 800 - ALAMODE
+

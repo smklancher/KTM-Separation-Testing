@@ -1,0 +1,76 @@
+﻿Uniform Residential Appraisal Report File #
+The purpose of this summary appraisal report is to provide the lender / client with an accurate, and adequately supported, opinion of the market value of the subject property.
+Property Address City State Zip Code
+Borrower Owner of Public Record County
+Legal Description
+S Assessor’s Parcel # Tax Year R.E. Taxes $
+U Neighborhood Name Map Reference Census Tract
+B
+J Occupant Owner Tenant Vacant Special Assessments $ PUD HOA $ per year per month
+E Property Rights Appraised Fee Simple Leasehold Other ( describe )
+C
+T Assignment Type Purchase Transaction Refinance Transaction Other ( describe )
+Lender / Client Address
+Is the subject property currently offered for sale or has it been offered for sale in the twelve months prior to the effective date of this appraisal? Yes No
+Report data source ( s ) used, offering price ( s ) , and date ( s ) .
+I did did not analyze the contract for sale for the subject purchase transaction. Explain the results of the analysis of the contract for sale or why the analysis was not
+C performed.
+O
+N
+T Contract Price $ Date of Contract Is the property seller the owner of public record? Yes No Data Source ( s )
+R Is there any financial assistance ( loan charges, sale concessions, gift or downpayment assistance, etc. ) to be paid by any party on behalf of the borrower? Yes No
+A If Yes, report the total dollar amount and describe the items to be paid.
+C
+T
+Note : Race and the racial composition of the neighborhood are not appraisal factors.
+Neighborhood Characteristics One - Unit Housing Trends One - Unit Housing Present Land Use %
+N Location Urban Suburban Rural Property Values Increasing Stable Declining PRICE AGE One - Unit %
+E Built - Up Over 75% 25–75% Under 25% Demand / Supply Shortage In Balance Over Supply $ ( 000 ) ( yrs ) 2 - 4 Unit %
+I Growth Rapid Stable Slow Marketing Time Under 3 mths 3–6 mths Over 6 mths Low Multi - Family %
+G
+H Neighborhood Boundaries High Commercial %
+B Pred. Other %
+O
+R Neighborhood Description
+H
+O
+O
+D
+Market Conditions ( including support for the above conclusions )
+Dimensions Area Shape View
+Specific Zoning Classification Zoning Description
+Zoning Compliance Legal Legal Nonconforming ( Grandfathered Use ) No Zoning Illegal ( describe )
+Is the highest and best use of the subject property as improved ( or as proposed per plans and specifications ) the present use? Yes No If No, describe
+S Utilities Public Other ( describe ) Public Other ( describe ) Off - site Improvements—Type Public Private
+I Electricity Water Street
+T Gas Sanitary Sewer Alley
+E
+FEMA Special Flood Hazard Area Yes No FEMA Flood Zone FEMA Map # FEMA Map Date
+Are the utilities and off - site improvements typical for the market area? Yes No If No, describe
+Are there any adverse site conditions or external factors ( easements, encroachments, environmental conditions, land uses, etc. ) ? Yes No If Yes, describe
+General Description Foundation Exterior Description materials / condition Interior materials / condition
+Units One One with Accessory Unit Concrete Slab Crawl Space Foundation Walls Floors
+# of Stories Full Basement Partial Basement Exterior Walls Walls
+Type Det. Att. S - Det. / End Unit Basement Area sq. ft. Roof Surface Trim / Finish
+Existing Proposed Under Const. Basement Finish % Gutters & Downspouts Bath Floor
+Design ( Style ) Outside Entry / Exit Sump Pump Window Type Bath Wainscot
+Year Built Evidence of Infestation Storm Sash / Insulated Car Storage None
+Effective Age ( Yrs ) Dampness Settlement Screens Driveway # of Cars
+Attic None Heating FWA HWBB Radiant Amenities Woodstove ( s ) # Driveway Surface
+Drop Stair Stairs Other Fuel Fireplace ( s ) # Fence Garage # of Cars
+I Floor Scuttle Cooling Central Air Conditioning Patio / Deck Porch Carport # of Cars
+M
+P Finished Heated Individual Other Pool Other Att. Det. Built - in
+R Appliances Refrigerator Range / Oven Dishwasher Disposal Microwave Washer / Dryer Other ( describe )
+O
+V Finished area above grade contains : Rooms Bedrooms Bath ( s ) Square Feet of Gross Living Area Above Grade
+E
+M Additional features ( special energy efficient items, etc. )
+E
+N
+T Describe the condition of the property ( including needed repairs, deterioration, renovations, remodeling, etc. ) .
+S
+Are there any physical deficiencies or adverse conditions that affect the livability, soundness, or structural integrity of the property? Yes No If Yes, describe
+Does the property generally conform to the neighborhood ( functional utility, style, condition, use, construction, etc. ) ? Yes No If No, describe
+Freddie Mac Form 70 March 2005 Page 1 of 6 Fannie Mae Form 1004 March 2005
+

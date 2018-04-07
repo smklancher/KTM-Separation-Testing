@@ -1,0 +1,46 @@
+﻿Comparable Photo Page
+Client
+Property Address Carlyle Ave
+City Surfside County Miami - Dade State FL Zip Code 33154 - 2443
+Owner
+Comparable 1
+Carlyle Ave
+Prox. to Subject 0.41 miles S
+Sale Price 450,000
+Gross Living Area 1,734
+Total Rooms 8
+Total Bedrooms 3
+Total Bathrooms 2.0
+Location Interior Lot
+View Residential
+Site 5,600 SqFt
+Quality Average
+Age 71 Years
+Comparable 2
+Carlyle Ave
+Prox. to Subject 0.28 miles N
+Sale Price 428,000
+Gross Living Area 1,474
+Total Rooms 8
+Total Bedrooms 3
+Total Bathrooms 3.0
+Location Interior Lot
+View Residential
+Site 5,600 SqFt
+Quality Average
+Age 66 Years
+Comparable 3
+Emerson Ave
+Prox. to Subject 0.50 miles S
+Sale Price 490,000
+Gross Living Area 1,654
+Total Rooms 8
+Total Bedrooms 2
+Total Bathrooms 2.0
+Location Interior Lot
+View Residential
+Site 5,600 SqFt
+Quality Average
+Age 62 Years
+Form PICPIX.CR - "TOTAL 2011" appraisal software by a la mode, inc. - 1 - 800 - ALAMODE
+
