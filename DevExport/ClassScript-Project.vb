@@ -189,6 +189,8 @@ Public Sub Logging_BatchOpen(ByVal pXRootFolder As CscXFolder)
    Dim ProjectLastSave As Date
 
 
+
+
    ProjectLastSave = FileDateTime(Project.FileName)
 
    'We can only get the batch class publish date if "Copy project during publish" is used
@@ -1191,11 +1193,11 @@ End Sub
 
 
 'returns information about a specific classification confidence. * means it passes the applicable threshold
-Public Function Logging_ConfidenceLine(Confidence As Single, ktmClass As CscClass, ResultType As CscResultType, IsTDSResult As Boolean, ResultFrom As String) As String
+Public Function Logging_ConfidenceLine(Confidence As Single, KtmClass As CscClass, ResultType As CscResultType, IsTDSResult As Boolean, ResultFrom As String) As String
    If Confidence<0.001 Then Exit Function
 
    Dim msg As String
-   msg=Format(Confidence,"Percent") & " - " & ktmClass.Name & "(" & Logging_ResultTypeString(ResultType) & ")"
+   msg=Format(Confidence,"Percent") & " - " & KtmClass.Name & "(" & Logging_ResultTypeString(ResultType) & ")"
 
    'threshold to use, class or project
    Dim Threshold As Single
@@ -1204,11 +1206,11 @@ Public Function Logging_ConfidenceLine(Confidence As Single, ktmClass As CscClas
       Case "Document"
          If IsTDSResult Then
             'TDS separation threshold only decides if the ClassificationUnconfident flag will be set to make it unconfident in Doc Review
-            If ktmClass.UseProjectThresholdsOnly Then
+            If KtmClass.UseProjectThresholdsOnly Then
                'Currently the TDS threshold reuses the project Content Confidence value
                Threshold=Project.MinContentConfidence
             Else
-               Threshold=ktmClass.MinClsConfidenceTDS
+               Threshold=KtmClass.MinClsConfidenceTDS
 
                'note the class specific threshold
                msg=msg & " (ClsThreshold:" & Format(Threshold,"Percent") & ")"
@@ -1228,10 +1230,10 @@ Public Function Logging_ConfidenceLine(Confidence As Single, ktmClass As CscClas
                msg=msg & "*"
             End If
          Else
-            If ktmClass.UseProjectThresholdsOnly Then
+            If KtmClass.UseProjectThresholdsOnly Then
                Threshold=Project.MinLayoutConfidence
             Else
-               Threshold=ktmClass.MinClsConfidenceLayout
+               Threshold=KtmClass.MinClsConfidenceLayout
 
                'note the class specific threshold
                msg=msg & " (ClsThreshold:" & Format(Threshold,"Percent") & ")"
@@ -1247,10 +1249,10 @@ Public Function Logging_ConfidenceLine(Confidence As Single, ktmClass As CscClas
             'Content results from TDS only show up if they are past the hardcoded 10% threshold
             msg=msg & "*"
          Else
-            If ktmClass.UseProjectThresholdsOnly Then
+            If KtmClass.UseProjectThresholdsOnly Then
                Threshold=Project.MinContentConfidence
             Else
-               Threshold=ktmClass.MinClsConfidenceContent
+               Threshold=KtmClass.MinClsConfidenceContent
 
                'note the class specific threshold
                msg=msg & " (ClsThreshold:" & Format(Threshold,"Percent") & ")"
@@ -1384,7 +1386,7 @@ Public Function Logging_ClassifcationResult(Header As String, ByVal CR As CscRes
       Dim CurrentClassId As Long
       Dim CurrentResultType As CscResultType
       Dim TDSClassesLogged As String ' ,ClassID,
-      Dim ktmClass As CscClass
+      Dim KtmClass As CscClass
 
       For i=0 To CR.FinalClassCount-1
          'Get current ClassId and Confidence
@@ -1395,8 +1397,8 @@ Public Function Logging_ClassifcationResult(Header As String, ByVal CR As CscRes
             'This returns an arbitary type when a TDS result has different page type results from the same class
             CurrentResultType=CR.ResultType(CurrentClassId)
 
-            Set ktmClass=Project.ClassByID(CurrentClassId)
-            If Not ktmClass Is Nothing Then
+            Set KtmClass=Project.ClassByID(CurrentClassId)
+            If Not KtmClass Is Nothing Then
                'Check TDS page types
                If CurrentResultType=CscResultTypeFirstPage Or _
                   CurrentResultType=CscResultTypeMiddlePage Or _
@@ -1414,16 +1416,16 @@ Public Function Logging_ClassifcationResult(Header As String, ByVal CR As CscRes
                      ConfLast=CR.GetPageLevelConfidence(CurrentClassId,CscResultTypeLastPage)
 
                      'log each type that has any confidence
-                     If ConfFirst=CurrentConfidence Then msg=msg & Header & "(Final) " & Logging_ConfidenceLine(ConfFirst,ktmClass,CscResultTypeFirstPage,IsTDSResult,ResultsFrom) & vbNewLine
-                     If ConfMiddle=CurrentConfidence Then msg=msg & Header & "(Final) " & Logging_ConfidenceLine(ConfMiddle,ktmClass,CscResultTypeMiddlePage,IsTDSResult,ResultsFrom) & vbNewLine
-                     If ConfLast=CurrentConfidence Then msg=msg & Header & "(Final) " & Logging_ConfidenceLine(ConfLast,ktmClass,CscResultTypeLastPage,IsTDSResult,ResultsFrom) & vbNewLine
+                     If ConfFirst=CurrentConfidence Then msg=msg & Header & "(Final) " & Logging_ConfidenceLine(ConfFirst,KtmClass,CscResultTypeFirstPage,IsTDSResult,ResultsFrom) & vbNewLine
+                     If ConfMiddle=CurrentConfidence Then msg=msg & Header & "(Final) " & Logging_ConfidenceLine(ConfMiddle,KtmClass,CscResultTypeMiddlePage,IsTDSResult,ResultsFrom) & vbNewLine
+                     If ConfLast=CurrentConfidence Then msg=msg & Header & "(Final) " & Logging_ConfidenceLine(ConfLast,KtmClass,CscResultTypeLastPage,IsTDSResult,ResultsFrom) & vbNewLine
 
                      'Remember that we did this class, so we don't log them again
                      'TDSClassesLogged=TDSClassesLogged & "," & CurrentClassId & ","
                   'End If
                Else
                   'Other types are simpler
-                  msg=msg & Header & "(Final) " & Logging_ConfidenceLine(CurrentConfidence,ktmClass,CurrentResultType,IsTDSResult,ResultsFrom) & vbNewLine
+                  msg=msg & Header & "(Final) " & Logging_ConfidenceLine(CurrentConfidence,KtmClass,CurrentResultType,IsTDSResult,ResultsFrom) & vbNewLine
                End If
             Else
                msg=msg & Header  & "(Final) " & "WARNING id " & CurrentClassId & " with confidence " & CurrentConfidence & " did not return a valid class from Project.ClassByID!" & vbNewLine
@@ -1446,8 +1448,8 @@ Public Function Logging_ClassifcationResult(Header As String, ByVal CR As CscRes
             'This returns an arbitary type when a TDS result has different page type results from the same class
             CurrentResultType=CR.ResultType(CurrentClassId)
 
-            Set ktmClass=Project.ClassByID(CurrentClassId)
-            If Not ktmClass Is Nothing Then
+            Set KtmClass=Project.ClassByID(CurrentClassId)
+            If Not KtmClass Is Nothing Then
                'Check TDS page types
                If CurrentResultType=CscResultTypeFirstPage Or _
                   CurrentResultType=CscResultTypeMiddlePage Or _
@@ -1465,16 +1467,16 @@ Public Function Logging_ClassifcationResult(Header As String, ByVal CR As CscRes
                      ConfLast=CR.GetPageLevelConfidence(CurrentClassId,CscResultTypeLastPage)
 
                      'log each type that has any confidence
-                     If ConfFirst=CurrentConfidence Then msg=msg & Header & Logging_ConfidenceLine(ConfFirst,ktmClass,CscResultTypeFirstPage,IsTDSResult,ResultsFrom) & vbNewLine
-                     If ConfMiddle=CurrentConfidence Then msg=msg & Header & Logging_ConfidenceLine(ConfMiddle,ktmClass,CscResultTypeMiddlePage,IsTDSResult,ResultsFrom) & vbNewLine
-                     If ConfLast=CurrentConfidence Then msg=msg & Header & Logging_ConfidenceLine(ConfLast,ktmClass,CscResultTypeLastPage,IsTDSResult,ResultsFrom) & vbNewLine
+                     If ConfFirst=CurrentConfidence Then msg=msg & Header & Logging_ConfidenceLine(ConfFirst,KtmClass,CscResultTypeFirstPage,IsTDSResult,ResultsFrom) & vbNewLine
+                     If ConfMiddle=CurrentConfidence Then msg=msg & Header & Logging_ConfidenceLine(ConfMiddle,KtmClass,CscResultTypeMiddlePage,IsTDSResult,ResultsFrom) & vbNewLine
+                     If ConfLast=CurrentConfidence Then msg=msg & Header & Logging_ConfidenceLine(ConfLast,KtmClass,CscResultTypeLastPage,IsTDSResult,ResultsFrom) & vbNewLine
 
                      'Remember that we did this class, so we don't log them again
                      'TDSClassesLogged=TDSClassesLogged & "," & CurrentClassId & ","
                   'End If
                Else
                   'Other types are simpler
-                  msg=msg & Header & Logging_ConfidenceLine(CurrentConfidence,ktmClass,CurrentResultType,IsTDSResult,ResultsFrom) & vbNewLine
+                  msg=msg & Header & Logging_ConfidenceLine(CurrentConfidence,KtmClass,CurrentResultType,IsTDSResult,ResultsFrom) & vbNewLine
                End If
             Else
                msg=msg & Header & "WARNING id " & CurrentClassId & " with confidence " & CurrentConfidence & " did not return a valid class from Project.ClassByID!" & vbNewLine
@@ -1757,7 +1759,6 @@ Public Sub DevMenu_Dialog(Optional pXFolder As CscXFolder=Nothing, Optional pXDo
    ' Keep an exported copy of the project script updated.
    ' Called via eval and ignoring errors so this will work if it is in the project, and no error if it is not.
    Eval("Dev_ExportScriptAndLocators()")
-   ' Get the name of the calling function
    On Error GoTo 0
 
    Begin Dialog DevDialog 640,399,"Transformation Script Development Menu",.DevMenu_DialogFunc ' %GRID:10,7,1,1
@@ -1784,7 +1785,7 @@ Public Sub DevMenu_Dialog(Optional pXFolder As CscXFolder=Nothing, Optional pXDo
    Dim Result As Integer
    Result=Dialog(dlg)
 
-   Debug.Print("Dialog result: " & Result)
+   'Debug.Print("Dialog result: " & Result)
 
    Select Case Result
       Case -1 ' cancel
@@ -1923,55 +1924,77 @@ Public Sub DevMenu_Execute(sf As ScriptFunction, Optional pXFolder As CscXFolder
    ' Declaring a staticly typed delegate would require a fixed signature, which would not allow for open-ended optional params, or open ended return types
    DelegateVar=Eval(EvalStr)
 
-
-   ' Invoke delegate with no params
-   Dim Result As Variant
-   If UBound(sf.Params)=-1 Then
-      DynamicInvoke(DelegateVar)
-      Exit Sub
+   Dim PerDoc As Boolean
+   If UBound(sf.Params)>-1 Then
+      ' Get the param based on what is needed and what is available
+      ' could consider a loop to provide default values or prompt user for additional params
+      Dim Param1 As Object
+      Select Case Replace(LCase(sf.Params(0).ParamType),"cascadelib.","")
+         Case "cscxdocument"
+            If Not pXDoc Is Nothing Then
+               Set Param1=pXDoc
+            Else
+               If Not pXFolder Is Nothing AndAlso pXFolder.DocInfos.Count>0 Then
+                  ' execute per document in folder
+                  PerDoc=True
+               End If
+            End If
+         Case "cscxfolder"
+            If Not pXFolder Is Nothing Then
+               Set Param1=pXFolder
+            Else
+               If Not pXDoc Is Nothing Then
+                  Debug.Print("Executing function using parent folder of xdoc (overriding single-document mode and folder access permissions).")
+                  ' Normally if you go to the parent folder from a doc level event, then back down through the xdocinfos to the xdocs,
+                  ' that would result in an error saying that it is not currently possible to access documents.
+                  ' Disabling single doc mode will allow access to the xdocs
+                  ' These commands are unsupported and have high potential to cause problems: They should never be touched at runtime.
+                  pXDoc.ParentFolder.SetSingleDocumentMode(False)
+                  pXDoc.ParentFolder.SetFolderAccessPermission(255)
+                  Set Param1=pXDoc.ParentFolder
+               End If
+            End If
+      End Select
    End If
 
-   ' Get the param based on what is needed and what is available
-   ' could consider a loop to provide default values or prompt user for additional params
-   Dim Param1 As Object
-   Select Case Replace(LCase(sf.Params(0).ParamType),"cascadelib.","")
-      Case "cscxdocument"
-         If Not pXDoc Is Nothing Then
-            Set Param1=pXDoc
-         Else
-            If Not pXFolder Is Nothing AndAlso pXFolder.DocInfos.Count>0 Then
-               Debug.Print("Executing document function on each doc in folder.")
 
-               Dim DocIndex As Integer
-               For DocIndex=0 To pXFolder.GetTotalDocumentCount()-1
-                  Debug.Print("Executing on document " & DocIndex+1 & "/" & pXFolder.DocInfos.Count())
-                  DynamicInvoke(DelegateVar,pXFolder.DocInfos(DocIndex).XDocument)
-               Next
-               Exit Sub
-
-            End If
-         End If
-      Case "cscxfolder"
-         If Not pXFolder Is Nothing Then
-            Set Param1=pXFolder
-         Else
-            If Not pXDoc Is Nothing Then
-               Debug.Print("Executing function using parent folder of xdoc (overriding single-document mode and folder access permissions).")
-               ' Normally if you go to the parent folder from a doc level event, then back down through the xdocinfos to the xdocs,
-               ' that would result in an error saying that it is not currently possible to access documents.
-               ' Disabling single doc mode will allow access to the xdocs
-               ' These commands are unsupported and have high potential to cause problems: They should never be touched at runtime.
-               pXDoc.ParentFolder.SetSingleDocumentMode(False)
-               pXDoc.ParentFolder.SetFolderAccessPermission(255)
-               Set Param1=pXDoc.ParentFolder
-            End If
-         End If
-   End Select
-
-   If Param1 Is Nothing Then
-      Debug.Print("Could not get a valid " & sf.Params(0).ParamType & ", skipping execution.")
+   Dim Result As Variant
+   If Not Param1 Is Nothing Then
+      ' Single param (whether doc, folder, or folder (parent of doc)
+      Result = DynamicInvoke(DelegateVar,Param1)
    Else
-      DynamicInvoke(DelegateVar,Param1)
+      If UBound(sf.Params)=-1 OrElse sf.Params(0).OptionalParam Then
+         ' Invoke delegate with no params
+         Result = DynamicInvoke(DelegateVar)
+      ElseIf PerDoc Then
+         Debug.Print("Executing document function on each doc in folder.")
+         Dim DocIndex As Integer, DocResult As Variant, DocResults As String
+         For DocIndex=0 To pXFolder.GetTotalDocumentCount()-1
+            Debug.Print("Executing on document " & DocIndex+1 & "/" & pXFolder.DocInfos.Count())
+            DocResult = DynamicInvoke(DelegateVar,pXFolder.DocInfos(DocIndex).XDocument)
+
+            On Error Resume Next
+               DocResults=DocResults & "Doc " & (DocIndex+1) & ": " & CStr(Result) & vbNewLine
+            On Error GoTo 0
+         Next
+         Result=DocResults
+      Else
+         Debug.Print("Could not get a valid " & sf.Params(0).ParamType & ", skipping execution.")
+      End If
+   End If
+
+   ' Output result if it can be converted to string, otherwise resume next
+   If Not sf.IsSub Then
+      Dim msg As String
+      On Error Resume Next
+      If CStr(Result)<>"" Then
+         msg=sf.Name & " = " & CStr(Result)
+      Else
+         msg=sf.Name & " = [" & TypeName(Result) & "]"
+      End If
+      On Error GoTo 0
+      Debug.Print(msg)
+      MsgBox(msg)
    End If
 End Sub
 
@@ -1994,7 +2017,7 @@ Public Function DynamicInvoke(DelegateVar As Variant, ParamArray Params() As Var
       Case 2
          Result=DelegateVar.Invoke(Params(0), Params(1), Params(2))
       Case Else
-         Err.Raise("Define more cases statements to handle more parameters")
+         Err.Raise("Define more case statements to handle more parameters")
    End Select
 
    If Err.Number=0 Then
@@ -2008,16 +2031,32 @@ Public Function DynamicInvoke(DelegateVar As Variant, ParamArray Params() As Var
       Stop ' Refer to Err.Description to see the line number of the real error.
    End If
 
-   ' Output result if it can be converted to string, otherwise resume next
-   If CStr(Result)<>"" Then
-      Debug.Print("Invoked function result = " & CStr(Result))
-   Else
-      Debug.Print("Invoked function result = " & TypeName(Result))
-   End If
-
    On Error GoTo 0
 
    Return Result
+End Function
+
+
+Public Function TestScriptFunctions(Optional NameFilter As String) As String
+   Dim AllFunc() As ScriptFunction
+   AllFunc=ParseScript(Project.ScriptCode,"Project")
+
+   Dim sf As ScriptFunction, msg As String, p As Param, sfline As String
+   For Each sf In AllFunc
+      sfline=""
+      If (NameFilter="" Or InStr(1, sf.Name, NameFilter)>0) Or sf.Suspect Then
+         sfline=sfline & IIf(sf.Suspect,"[SUSPECT] ","") & IIf(sf.IsSub,"Sub ", "Function ") & sf.Name & "("
+         For Each p In sf.Params
+            sfline=sfline & IIf(p.OptionalParam, "Optional ","") & p.Name & IIf(p.Array, "() "," ") & IIf(Len(p.ParamType)>0,"As " & p.ParamType, "") & IIf(Len(p.DefaultValue)>0,"=" & p.DefaultValue,"") & ", "
+         Next
+         If UBound(sf.Params)>-1 Then sfline=Mid(sfline,1,Len(sfline)-2)
+         sfline=sfline & ")" & IIf(Len(sf.ReturnType)>0, " As " & sf.ReturnType, "") & IIf(Len(sf.StringTag)>0," [Tag: " & sf.StringTag & "]", "")
+         Debug.Print(sfline)
+         msg=sfline & vbNewLine
+      End If
+   Next
+
+   Return msg
 End Function
 
 
